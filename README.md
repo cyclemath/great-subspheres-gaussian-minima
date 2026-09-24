@@ -117,7 +117,7 @@ Later substantive corrections can be released as Version 0.2, 0.3, and so on. Ea
 
 A Zenodo DOI will be added here after the first archived release is published.
 
-> **Zenodo DOI:** to be added
+> **Zenodo DOI:** https://doi.org/10.5281/zenodo.22783390
 
 The GitHub repository is intended to remain the updateable research record; Zenodo will provide fixed, citable snapshots.
 
